@@ -26,6 +26,6 @@ Recomenda-se a leitura sequencial dos módulos, na ordem abaixo:
 Leitores que já têm clareza sobre sua estratégia de estudo podem ir direto para a seção de Exercícios, mas a leitura completa é recomendada para melhor aproveitamento.
 
 ## Autoria
-Daniel Ferreira Vieira de Araújo
+Daniel Ferreira V. de Araújo
 Guia produzido como projeto integrador da trilha de Git/GitHub, com foco em reflexão crítica sobre o processo de ingresso na área de TI.
 14/08/2026
